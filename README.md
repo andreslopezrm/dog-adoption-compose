@@ -4,7 +4,7 @@
 - Kotlin
 - Jetpack compose
 
-[Tweed](https://twitter.com/andres_lopez_rm/status/1364792558170349574)
+[Tweed: https://twitter.com/andres_lopez_rm/status/1364792558170349574](https://twitter.com/andres_lopez_rm/status/1364792558170349574)
 
 
 ![alt text](https://pbs.twimg.com/media/EvC3l2WXcAIDnBl?format=jpg&name=4096x4096 "Puppy")
